@@ -9,3 +9,8 @@ Me ha costado más de lo que pensaba, al estudiar todo parece más sencillo pero
 ### Entrega
 
 En la práctica se pide que se entrege un archivo .py pero lo entrego en un archivo .ipynb ya que es con lo que hemos trabajado desde el principio, si hay algún problema lo cambia sin problema.
+
+
+### Corrección
+
+Espero haber cambiado todo lo que se esperaba
